@@ -53,13 +53,13 @@ async function initializeDatabase() {
             prefix: '.',
             packname: 'dreaded md2 🤖',
             mode: 'public',
-            presence: 'recording',
+            presence: 'online',
             autoview: 'true',
             autolike: 'true',
             autoread: 'false',
             autobio: 'true',
             anticall: 'true', 
-            reactEmoji: '❤️'  
+            reactEmoji: '💚'  
         };
 
         for (const [key, value] of Object.entries(defaultSettings)) {
