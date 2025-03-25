@@ -35,7 +35,7 @@
 ## DEPLOYMENT
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Fortunatusmokaya/dreaded-v2" target="_blank" style="margin-right: 10px;">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/ugandac/dreaded-v2" target="_blank" style="margin-right: 10px;">
     <img alt="Deploy" src="https://www.herokucdn.com/deploy/button.svg"/>
   </a>
 </p>
