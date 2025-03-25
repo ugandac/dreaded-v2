@@ -52,14 +52,14 @@ async function initializeDatabase() {
         const defaultSettings = {
             prefix: '.',
             packname: 'dreaded md2 🤖',
-            mode: 'public',
+            mode: 'private',
             presence: 'online',
             autoview: 'true',
             autolike: 'true',
-            autoread: 'true',
+            autoread: 'false',
             autobio: 'false',
             anticall: 'true', 
-            reactEmoji: '❤️'  
+            reactEmoji: '💚'  
         };
 
         for (const [key, value] of Object.entries(defaultSettings)) {
