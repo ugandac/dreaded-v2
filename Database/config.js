@@ -83,7 +83,7 @@ const defaultGroupSettings = {
     antitag: 'true',         
     antidelete: 'true',               
     gcpresence: 'false',    
-    antiforeign: 'true',   
+    antiforeign: 'false',   
     antidemote: 'false',      
     antipromote: 'true',
     events: 'false',
