@@ -53,13 +53,13 @@ async function initializeDatabase() {
             prefix: '.',
             packname: 'dreaded md2 🤖',
             mode: 'private',
-            presence: 'online',
+            presence: 'typing',
             autoview: 'true',
-            autolike: 'true',
+            autolike: 'false',
             autoread: 'false',
             autobio: 'false',
             anticall: 'true', 
-            reactEmoji: '💚'  
+            reactEmoji: ''  
         };
 
         for (const [key, value] of Object.entries(defaultSettings)) {
@@ -81,7 +81,7 @@ async function initializeDatabase() {
 
 const defaultGroupSettings = {
     antitag: 'true',         
-    antidelete: 'true',               
+    antidelete: 'false',               
     gcpresence: 'false',    
     antiforeign: 'false',   
     antidemote: 'false',      
