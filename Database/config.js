@@ -57,7 +57,7 @@ async function initializeDatabase() {
             autoview: 'true',
             autolike: 'false',
             autoread: 'false',
-            autobio: 'false',
+            autobio: 'true',
             anticall: 'true', 
             reactEmoji: ''  
         };
