@@ -97,7 +97,7 @@ if (autobio){
 
                          client.updateProfileStatus( 
 
-                                         `BLESSED MIKE is active 24/7\n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} It's a ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
+                                         `𝘽𝙡𝙚𝙨𝙨𝙚𝙙 𝙈𝙠⚡ is active 24/7\n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} It's a ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
 
                                  ) 
 
