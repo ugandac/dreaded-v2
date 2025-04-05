@@ -53,7 +53,7 @@ async function initializeDatabase() {
             prefix: '.',
             packname: 'dreaded md2 🤖',
             mode: 'private',
-            presence: 'recording',
+            presence: 'online',
             autoview: 'true',
             autolike: 'false',
             autoread: 'false',
